@@ -3,6 +3,7 @@
 ## Overview
 
 Problem Statement: 
+
  Due to inconsistent classification of identical products across Otto Group's diverse global infrastructure, 
  this project aims to build a predictive model using 200,000+ products with 93 features to accurately distinguish main product categories and enable reliable performance analysis.
 
